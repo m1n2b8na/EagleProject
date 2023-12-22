@@ -1,0 +1,11 @@
+.timer-button {
+  background-color: grey;
+  color: aquamarine;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 35px;
+}
+.top-button {
+  border-radius: 50%;
+  margin: 15px;
+}
